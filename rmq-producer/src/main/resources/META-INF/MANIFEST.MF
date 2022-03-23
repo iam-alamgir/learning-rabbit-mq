@@ -1,0 +1,2 @@
+Implementation-Title: rmq-producer
+Implementation-Version: 1.0.0

@@ -1,0 +1,2 @@
+Implementation-Title: rmq-consumer1
+Implementation-Version: 1.0.0
